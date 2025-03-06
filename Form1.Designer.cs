@@ -56,6 +56,7 @@
             // eXITToolStripMenuItem
             // 
             eXITToolStripMenuItem.Name = "eXITToolStripMenuItem";
+            eXITToolStripMenuItem.RightToLeft = RightToLeft.No;
             eXITToolStripMenuItem.Size = new Size(38, 20);
             eXITToolStripMenuItem.Text = "Exit";
             eXITToolStripMenuItem.Click += eXITToolStripMenuItem_Click;
